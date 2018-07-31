@@ -1,0 +1,29 @@
+.meridian-job-meta-box{
+    padding: 15px 0 0;
+}
+.meridian-job-meta-box .form-field{
+    width: 50%;
+    float: left;
+    margin: 0 0 15px;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+.meridian-job-meta-box .form-field label{
+    margin: 0px;
+    display: block;
+    clear: both;
+}
+.meridian-job-meta-box .form-field input{
+    margin: 10px 0 0;
+}
+
+.meridian-job-meta-box .form-field input[type="text"],
+.meridian-job-meta-box .form-field input[type="email"],
+.meridian-job-meta-box .form-field input[type="number"]{
+    width: 100%;
+}
+
+#adminmenu .wp-menu-image img{
+    padding: 5px 0;
+    height: 24px;
+}
